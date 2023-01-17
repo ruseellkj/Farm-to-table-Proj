@@ -1,4 +1,9 @@
-/*--------------------------------------------------------------
+*{
+  margin: 0px 0px;
+  padding: 0px 0px;
+  box-sizing: border-box;
+
+}/*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
@@ -130,10 +135,11 @@ section {
 }
 
 .section-bg {
-  background-color: #1a1814;
+  background-color: #141a14;
 }
 
 .section-title {
+  /* justify-content: center; */
   padding-bottom: 40px;
 }
 
@@ -143,7 +149,7 @@ section {
   padding: 0;
   line-height: 1px;
   margin: 0 0 5px 0;
-  letter-spacing: 2px;
+  letter-spacing: 7px;
   text-transform: uppercase;
   color: #aaaaaa;
   font-family: "Poppins", sans-serif;
@@ -165,6 +171,7 @@ section {
   font-weight: 700;
   font-family: "Playfair Display", serif;
   color: #cda45e;
+  /* justify-content: center; */
 }
 
 
@@ -173,7 +180,7 @@ section {
 --------------------------------------------------------------*/
 .menu #menu-flters {
   padding: 0;
-  margin: 0 auto 0 auto;
+  margin: 15px 10px;
   list-style: none;
   text-align: center;
   border-radius: 50px;
@@ -183,7 +190,7 @@ section {
   cursor: pointer;
   display: inline-block;
   padding: 8px 12px 10px 12px;
-  font-size: 16px;
+  font-size: 13.2px;
   font-weight: 500;
   line-height: 1;
   color: #fff;
