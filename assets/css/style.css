@@ -135,7 +135,7 @@ section {
 }
 
 .section-bg {
-  background-color: #141a14;
+  background-color: #282d0b;
 }
 
 .section-title {
@@ -190,7 +190,7 @@ section {
   cursor: pointer;
   display: inline-block;
   padding: 8px 12px 10px 12px;
-  font-size: 13.2px;
+  font-size: 18px;
   font-weight: 500;
   line-height: 1;
   color: #fff;
@@ -241,7 +241,7 @@ section {
 
 .menu .menu-content a {
   padding-right: 10px;
-  background: #1a1814;
+  background: #282d0b;
   position: relative;
   z-index: 3;
   font-weight: 700;
