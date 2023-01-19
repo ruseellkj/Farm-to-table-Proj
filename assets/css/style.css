@@ -12,6 +12,31 @@ body {
   color: #fff;
 }
 
+.topnav {
+  background-color:#333;
+  opacity: 0.65; 
+  filter: alpha(opacity=50);
+  overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 2.6vh;
+  margin-left: 2%;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+  background-color: #f0f4d1;
+  color:#4d571b;
+  
+  }
+
 a {
   color: #cda45e;
   text-decoration: none;
